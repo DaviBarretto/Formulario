@@ -1,5 +1,5 @@
 # Formulario
-Forumulário criado para fixar o conteúdo de Html e Css
+Formulário criado para fixar o conteúdo de Html e Css
 
 Este formulário foi criado na intenção de fixar o conteúdo visto durante o meu curso 
 
